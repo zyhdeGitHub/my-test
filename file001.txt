@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Update count=3
+=======
+Update count=2
+>>>>>>> 1587732 (update file01 count-2)
